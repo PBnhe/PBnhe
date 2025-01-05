@@ -1,9 +1,5 @@
-Eai
+oi
 
-Sou estudante de eng da computação (2/∞)
+Sou estudante de eng da computação
 comecei a estudar na metade de 2024
-atualmente estou focado em fazer jogos /aplicações pra windows
-
-
-mu/shi/shi
-　　
+atualmente focado em fazer jogos /aplicações pra windows
